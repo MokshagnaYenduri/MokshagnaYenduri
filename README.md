@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yenduri Mokshagna</h1>
 <h3 align="center">I am Yenduri Mokshagna, a B.Tech (Hons.) CSE student at KL University, specializing in cybersecurity with a 9.2 CGPA. Passionate about problem-solving, computers, and meeting new people, I have expertise in Java, web development, Hands-on experience on SDLC, and Agile methodologies. have participated in multiple hackathons, reaching final rounds and winning one. Always eager to innovate, explore, and tackle new challenges.</h3>
 
-- 👨‍💻 All of my projects are available at [mokshagnayenduri.github.io/portfolio/](mokshagnayenduri.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Mokshagna's portfolio](mokshagnayenduri.github.io/portfolio/)
 
 - 📫 How to reach me **mokshagnayenduri@gmail.com**
 
-- 📄 Know about my experiences [Click here](https://github.com/MokshagnaYenduri/Resume/raw/main/Mokshagna_resumeV2.pdf)
+- 📄 Know about my experiences [Here](https://github.com/MokshagnaYenduri/Resume/raw/main/Mokshagna_resumeV2.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
