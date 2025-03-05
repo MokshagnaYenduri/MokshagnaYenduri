@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mokshagnayenduri@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/MokshagnaYenduri/Resume/raw/main/Mokshagna_resumeV2.pdf](https://github.com/MokshagnaYenduri/Resume/raw/main/Mokshagna_resumeV2.pdf)
+- 📄 Know about my experiences [Click here](https://github.com/MokshagnaYenduri/Resume/raw/main/Mokshagna_resumeV2.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
